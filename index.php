@@ -14,8 +14,13 @@ and open the template in the editor.
 
         <p> List of pie products</p>
         <span>New Pie news</span>
+<<<<<<< HEAD
         <p>Ingredients for pie</p>
         <p>list</p>
+=======
+        <p>email list</p>
+        <p>list of people</p>
+>>>>>>> origin/r2_index
     
     </body>
 </html>
